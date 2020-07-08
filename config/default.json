@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://tonmoy123:tonmoy123@development-skl2d.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "5f876c9ed44c9038eb96",
+  "githubSecret": "7b5a3161dfcb724431322fb368e70d4d1342a0b9"
+}
